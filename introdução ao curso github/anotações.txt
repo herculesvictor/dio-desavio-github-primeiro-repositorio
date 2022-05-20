@@ -1,0 +1,8 @@
+dicas e como usar
+ - *negrito* ls: mostrar o que tem no direitorio
+ - mkdir: criar pasta
+ - rm: remover
+ - git status: mostra status 
+ - git add *: adciona todos os arquivos as commits 
+ - git commit -m "descrição"
+ - git push origin 
