@@ -1,5 +1,5 @@
 dicas e como usar
- - *negrito* ls: mostrar o que tem no direitorio
+ - ls: mostrar o que tem no direitorio
  - mkdir: criar pasta
  - rm: remover
  - git status: mostra status 
